@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583166075928",
+    "project_id": "birdlogin-7ad06",
+    "storage_bucket": "birdlogin-7ad06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583166075928:android:74ecb31344e93a66cacf6d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAheZhbgVEQu7S1n0_Mf78ZY2SMzCqnlzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
